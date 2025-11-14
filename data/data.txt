@@ -1,0 +1,17 @@
+Data Structure
+--------------
+
+This dataset has been extracted from a larger industrial dataset and it contains
+sensor data from 4 different devices. Each row represents one sensor measurement.
+
+Columns:
+
+  when   : UNIX timestamp in milliseconds (measurement time)
+  hwid   : identifier of the device that generated the measurement
+  metric : name of the measured variable
+  value  : numerical value of the measurement
+
+The dataset is available at the following link (zipped CSV format):
+https://drive.google.com/file/d/1-m-eZgtOrLUp2AfDXrlKGpyF_Iv8yNYs/view
+
+The uncompressed dataset size is approximately 5 GB.
