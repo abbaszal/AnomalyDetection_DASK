@@ -1,5 +1,5 @@
 Data Structure
---------------
+
 
 This dataset has been extracted from a larger industrial dataset and it contains
 sensor data from 4 different devices. Each row represents one sensor measurement.
